@@ -14,3 +14,6 @@ Ejecutar todas las celdas.
 
 ## Resultado
 El modelo predice la nota final de un estudiante.
+
+## Contexto
+Este modelo se plantea desde el ámbito educativo, con el fin de analizar el rendimiento académico de estudiantes y apoyar la toma de decisiones pedagógicas.
